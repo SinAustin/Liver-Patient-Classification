@@ -1,5 +1,6 @@
 # Liver-Patient-Classification
 Using the intake of harmful foods, gases, and alcohol to predict liver disease in indian patients.
+Our SVM ended with a diagnosis accuracy of 93% for females and 94% for males
 # Context
 
 Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors.

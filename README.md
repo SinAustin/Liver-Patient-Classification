@@ -29,10 +29,10 @@ Columns:
     Albumin and Globulin Ratio
     Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
 # Results And Insights:
-## Using the intake of harmful foods, gases, and alcohol to predict liver disease in indian patients. Our SVM ended with a DIAGNOSIS ACCURACY OF 
-## 93% correct classification FOR FEMALES 
+## Using the intake of harmful foods, gases, and alcohol to predict liver disease in indian patients. Our Support Vector Classifier ended with a DIAGNOSIS ACCURACY OF 
+## 93% correct diagnosis FOR FEMALES 
 AND 
-## 94% correct classification FOR MALES.
+## 94% correct diagnosis FOR MALES.
 
 ### Though accuracy of the SVC is very close between the male and female patients, the male patients have a few correlations that were not as strong in females.
 

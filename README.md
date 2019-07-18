@@ -33,10 +33,10 @@ Columns:
 
 ### Though accuracy of the SVC is very close between the male and female patients, the male patients have a few correlations that were not as strong in females.
 
- ###   -Male Total Protiens levels had a correlation with being positively diagnosed with liver disease almost 8X higher than that of females female- 0.007514 | male- 0.059213
- ###   -Male Total BUN and Direct BUN levels where about twice as correlated with levels ALP, ALAT, and AST as that off females.
-  ###  -Males ABLOB levels and Total protiens levels correlation is twice that of females.
-  ###  -Total BUN, Direct BUN, ALP, ALAT, and AST had the highest correlations with a positive liver disease diagnosis in boths sexes with correlations ranging from .2 to .31
+   -Male Total Protiens levels had a correlation with being positively diagnosed with liver disease almost 8X higher than that of females female- 0.007514 | male- 0.059213
+   -Male Total BUN and Direct BUN levels where about twice as correlated with levels ALP, ALAT, and AST as that off females.
+   -Males ABLOB levels and Total protiens levels correlation is twice that of females.
+   -Total BUN, Direct BUN, ALP, ALAT, and AST had the highest correlations with a positive liver disease diagnosis in boths sexes with correlations ranging from .2 to .31
 
 
 Acknowledgements

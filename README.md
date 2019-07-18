@@ -2,6 +2,7 @@
 
 ## The problem:
 According to the CDC from 2000 to 2015, death rates for chronic liver disease and cirrhosis in the United States increased 31% (from 20.1 per 100,000 to 26.4) among persons aged 45–64 years. Rates in that age group increased 21% for men (from 29.8 to 36.2) and 57% for women (from 10.8 to 17.0). Among persons aged 25–44 years, the death rate for men decreased 10% (from 6.1 to 5.5), and the rate for women increased 18% (from 2.8 to 3.3). Overall, among persons aged ≥65 years, rates increased 3% (from 29.4 to 30.2). Death rates for both men and women increased with age.
+![](/liver_imgs/liver.jpg)
 
 ## The Goal:
 Our goal is to build a model to that can correctly diagnos liver disease based on 10 features, 8 of them being chemical levels in the blood.
@@ -40,7 +41,8 @@ Columns:
    -Males ABLOB levels and Total protiens levels correlation is twice that of females.
    
    -Total BUN, Direct BUN, ALP, ALAT, and AST had the highest correlations with a positive liver disease diagnosis in boths sexes with correlations ranging from .2 to .31
-
+   ![](/liver_imgs/female_corr.png)
+   ![](/liver_imgs/male_corr.png)
 
 ## Acknowledgements:
 This dataset was downloaded from the UCI ML Repository:

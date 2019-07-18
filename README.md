@@ -42,6 +42,10 @@ Columns:
    -Total BUN, Direct BUN, ALP, ALAT, and AST had the highest correlations with a positive liver disease diagnosis in boths sexes with correlations ranging from .2 to .31
    ![](/liver_imgs/female_corr.png)
    ![](/liver_imgs/male_corr.png)
+   
+## Tools used:
+-the python data stack- Numpy, sklearn, matplotlib, ect.
+-SNS for visualization
 
 ## Acknowledgements:
 This dataset was downloaded from the UCI ML Repository:
